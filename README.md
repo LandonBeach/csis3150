@@ -27,7 +27,8 @@
 
 
 ## Week 4
-1. Referring to the cplusplus docs on the cstring library, write a test driver for the following string methods: strcat, strcmp, strlen, strtok.
+1. Referring to the cplusplus docs on the cstring library, write a test driver for the following string methods:
+   - strcat, strcmp, strlen, strtok.
 1. Write a program called “sum” that, when run from the command line sums all the numbers listed, ex., sum 1 2 3 4 would give 10. (Hint: use the command atoi.)
 1. Create and test a Student struct. It should have first name, last name, major and email address.
 
