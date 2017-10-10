@@ -4,11 +4,11 @@
 1. Write a program that prints your name, major, year and academic interests.
 1. Illustrate the following operators: Arithmetic operators: +, -, *, /, %; Relational operators: <, >, <=, >=, ==, !=; and Logical operators: &&, ||, and !. Note that C does not have a primitive Boolean type.
 1. Use a for loop that computes and prints the powers of 2 from 2^1 to 2^20 (around a million):
-   - Write code that uses a for loop and prints out a list of squares of n from n=1 to n=100, giving n and n^2 (ex. 3 -> 9).
-   - Write a function that prints out if an integer is even or odd. Test it on 4 different integers.
-   - Write and test a function that computes the distance between two points in 2D.
-   - Write and test a function that computes n values of the sine function evenly spaced between 0 and 2Pi.
-   - Write and test a function that simulates the rolling of two dice. It should take an integer n that determines how many times the dice are rolled then print a list showing the number of each possible outcome.
+1. Write code that uses a for loop and prints out a list of squares of n from n=1 to n=100, giving n and n^2 (ex. 3 -> 9).
+1. Write a function that prints out if an integer is even or odd. Test it on 4 different integers.
+1. Write and test a function that computes the distance between two points in 2D.
+1. Write and test a function that computes n values of the sine function evenly spaced between 0 and 2Pi.
+1. Write and test a function that simulates the rolling of two dice. It should take an integer n that determines how many times the dice are rolled then print a list showing the number of each possible outcome.
 
 
 ## Week 2
