@@ -1,4 +1,4 @@
-# Advanced Data Structures and Algorithms (CSIS 3150)
+# C/C++ Programming (CSIS 3150)
 
 ## Week 1
 1. Write a program that prints your name, major, year and academic interests.
